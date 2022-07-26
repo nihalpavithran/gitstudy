@@ -1,11 +1,8 @@
 song 1
 song 2
 song 3
-<<<<<<< Updated upstream
 song 4
 loio
-=======
 song 11
 song 158
 45466655
->>>>>>> Stashed changes
